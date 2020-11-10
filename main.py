@@ -1,4 +1,5 @@
 import hello
+import Django
 
 # This is a sample Python script.
 
